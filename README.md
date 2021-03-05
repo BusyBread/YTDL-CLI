@@ -19,11 +19,14 @@ PowerShell command-line tool that allows you to download your favorite Youtube v
 * Downloading youtube-dl.exe.
 ![Downloading youtube-dl.exe](https://github.com/BusyBread/YTDL-CLI/blob/main/images/downloading_youtube-dl.png)
 
+
 * Completed youtube-dl.exe download.
-![Completed youtube-dl.exe download](https://github.com/BusyBread/YTDL-CLI/blob/main/images/completed_downloading_youtube-dl.png)
+![Completed download](https://github.com/BusyBread/YTDL-CLI/blob/main/images/completed_downloading_youtube-dl.png)
+
 
 * Downloaded audio file.
 ![Downloaded audio file](https://github.com/BusyBread/YTDL-CLI/blob/main/images/download_audio_file.png)
+
 
 * Downloaded video file (verbose).
 ![Downloaded video file (verbose)](https://github.com/BusyBread/YTDL-CLI/blob/main/images/download_video_file_verbose.png)
