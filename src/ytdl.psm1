@@ -240,12 +240,11 @@ function Get-YTDLEXE {
         Invoke-WebRequest -Uri $DownloadUrl -OutFile $LocalYTPath -Verbose -OutVariable content_status
 
         if (Test-Path $LocalYTPath){
-            Write-Host "File appears to have completed downloading. Try to run the script again." -ForegroundColor Green
-            return $trues
+            Write-Host "youtube-dl has completed downloading." -ForegroundColor Green
+            Write-Host "Try to run the script again." -ForegroundColor Green
         }
         else {
             Write-Warning "Could not locate file. Try to manually download file."
-            return $false
         }
     }
     catch {
