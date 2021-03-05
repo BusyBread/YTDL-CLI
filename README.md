@@ -14,6 +14,7 @@ PowerShell command-line tool that allows you to download your favorite Youtube v
 	* DownloadPath
 		* Path to save downloaded files, if not already present the script will attempt to create the directory.
 		* Defaults to `%USERPROFILE%\Downloads\yt_downloads`
+* Run Invoke-YTDL.ps1 directly from PowerShell console or double-click provided batch file.
 
 ## Screenshots
 * Downloading youtube-dl.exe.
