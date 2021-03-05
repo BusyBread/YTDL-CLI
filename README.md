@@ -1,2 +1,2 @@
 # Invoke-YTDL
-This command-line tool will allow you to download your favorite Youtube videos as videos or songs.
+PowerShell command-line tool that allows you to download your favorite Youtube videos in either a video or audio format.
